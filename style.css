@@ -1,0 +1,12 @@
+.item {
+  border: 1px solid;
+  font-size: 15px;
+	width: 200px;
+	height: 25px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.highlight {
+	background: rgb(131, 226, 131);
+}
